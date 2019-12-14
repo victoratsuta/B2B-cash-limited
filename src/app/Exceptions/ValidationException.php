@@ -1,10 +1,10 @@
 <?php
 
-
 namespace App\Exceptions;
 
+use Exception;
 
-class ValidationException
+class ValidationException extends Exception
 {
 
 }
