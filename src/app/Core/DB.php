@@ -1,12 +1,8 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: thuanpt
- * Date: 19/07/2017
- * Time: 22:55
- */
 
-namespace App\Models;
+
+namespace App\Repository;
+
 
 use PDO;
 
